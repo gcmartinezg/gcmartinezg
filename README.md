@@ -25,7 +25,7 @@
 
 <h3 align="left">🌎Languages:</h3>
 
-- :co:Spanish: Native
+- :colombia:Spanish: Native
 - :us:English: Intermediate
 - :fr:French: Beginner
 
